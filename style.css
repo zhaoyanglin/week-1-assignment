@@ -1,0 +1,28 @@
+body{
+  background-color: grey;
+}
+/* Make the header and footer a different color from the background */
+h1{
+  color: white;
+}
+footer{
+  color: white;
+}
+/* Align the h1 containing your name in the center of the header*/
+h1{
+  text-align: center;
+}
+/* Make your p tag a different color and italic */
+p{
+  color: white;
+  font-style: italic;
+}
+/* Put a border around your image */
+img{
+  border-style: solid;
+  width: 300px;
+}
+/* Change the font-family of your list */
+li{
+  font-style: italic;
+}
